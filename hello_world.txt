@@ -1,0 +1,8 @@
+def hello_world(input):
+    try:
+        print("Hello World!")
+    except:
+        print("Try Failed")
+    finally:
+        print("Something went really bad!)
+    return output = input
